@@ -30,3 +30,5 @@ Das System DigiPark
 - Das System DigiPark sollte den Herausfahrenden nur nach Bezahlung des Parkausweises passieren lassen
 
 ### Nicht funktional (Qualität und Sicherheit des Produktes)
+- Das Herausfahren des Parkenden sollte bis zu 15 Minuten nach Bezahlung des Parkausweises gewährt werden
+- Der Manager sollte den Kassenstand pro Tag, Woche, Monat und Jahr kennen und in eine Kurve eintragen
