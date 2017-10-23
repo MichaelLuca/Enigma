@@ -23,6 +23,10 @@ Das System DigiPark
 	- Im Notfall sollten alle Schranken geöffnet werden können.
 	
 ### Funktional (Was das Produkt können soll)
-- 
+- Das System DigiPark muss Autos das Parken und Herausfahren mit Kontrollen gewähren
+- Das System DigiPark muss die Fülle des Parkhauses verwalten
+- Das System DigiPark muss im Notfall alle Schranken sofort öffnen
+- Das System DigiPark sollte die Parkgebühr anhand der Anfangsparkzeit errechnen
+- Das System DigiPark sollte den Herausfahrenden nur nach Bezahlung des Parkausweises passieren lassen
 
 ### Nicht funktional (Qualität und Sicherheit des Produktes)
