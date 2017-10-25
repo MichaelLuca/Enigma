@@ -76,3 +76,74 @@ mblatz2s, tschue2s, zisikh2s
 <div align="right">
     <b><a href="#enigma">back to top</a></b>
 </div>
+
+### Wer sind die Stakeholder eines digitalisierten Parkhauses?
+- Kunden (Parkenden)
+- Mitarbeiter (Kassierer, Einweiser, Manager, Schrankenwärter)
+- Manager
+- Pächter von Parkflächen
+- Gesetzgeber
+- Politik
+- Banken und andere Kapitalgeber
+- Eigentümer
+- Staat
+
+<div align="right">
+    <b><a href="#enigma">back to top</a></b>
+</div>
+
+### Stakeholder (intern, extern, aktiv, passiv)
+#### Interne Stakeholder
+- Mitarbeiter
+- Eigentümer
+- Manager
+#### Externe Stakeholder
+- Kunden
+- Pächter von Parkflächen
+- Gesetzgeber
+- Politik
+- Banken und andere Kapitalgeber
+- Staat
+#### Aktive Stakeholder
+- Mitarbeiter
+- Kunden
+- Manager
+- Eigentümer
+#### Passive Stakeholder
+- Pächter von Parkflächen
+- Gesetzgeber
+- Politik
+- Banken und andere Kapitalgeber
+- Staat
+
+<div align="right">
+    <b><a href="#enigma">back to top</a></b>
+</div>
+
+## User Stories
+- Als Autofahrer benötige ich das Wissen über die Anzahl der freien Parkplätze, um das Parkhaus nutzen zu können
+- Als Autofahrer benötige ich Informationen zum Preis, um im Parkhaus das Parkticket zahlen zu können
+- Als Autofahrer möchte ich im Notfall das Parkhaus sofort verlassen können, um nicht in Gefahr zu geraten
+- Als Schrankenwärter benötige ich die Information über die Anzahl der freien Parkplätze, um weitere Autos ins Parkhaus fahren lassen zu können
+- Als Schrankenwärter benötige ich die Information wann das Parkticket bezahlt wurde um den Parkenden aus dem Parkhaus fahren lassen zu können
+- Als Manager benötige ich eine Kontrolle über den Ein- und Auslass, damit die Öffnungszeiten von den Kunden eingehalten werden
+- Als Manager benötige ich die Kontrolle über Betriebsabläufe, um das Parkhaus kontrollieren und steuern zu können
+- Als Manager möchte ich die Öffnungszeiten selbst festlegen können, um den Gesetzlichen Vorgaben zu entsprechen
+- Als Manager benötige ich die Informationen über den Kassenstand, um dies in eine Übersicht eintragen zu können
+- Als Manager möchte ich den Kassenstand im Nachhinein pro Tag, Woche, Monat und Jahr abfragen können
+- Als Manager benötige ich den Zugriff auf meine wichtigen Informationen von jedem PC aus
+
+##Priorisierung der User Stories nach Gloger
+| User Story | Mehrwert | Erfahrung | Aufwand | Risiko | Priorität |
+|------------------------------------------------------------------|
+|  1 |
+|  2 |
+|  3 |
+|  4 |
+|  5 |
+|  6 |
+|  7 |
+|  8 |
+|  9 |
+| 10 |
+| 11 |
