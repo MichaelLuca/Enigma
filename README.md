@@ -55,7 +55,6 @@ mblatz2s, tschue2s, zisikh2s
 <div align="right">
     <b><a href="#enigma">back to top</a></b>
 </div>
-
 ### Beispiele für Stakeholder
 - Kunden
 - Mitarbeiter
