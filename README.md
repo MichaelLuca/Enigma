@@ -134,16 +134,72 @@ mblatz2s, tschue2s, zisikh2s
 - Als Manager benötige ich den Zugriff auf meine wichtigen Informationen von jedem PC aus
 
 ## Priorisierung der User Stories nach Gloger
-| User Story | Mehrwert | Erfahrung | Aufwand | Risiko | Priorität |
-| ----------:| -------- | --------- | ------- | ------ | --------- |
-|  1 | Test |
-|  2 |
-|  3 |
-|  4 |
-|  5 |
-|  6 |
-|  7 |
-|  8 |
-|  9 |
-| 10 |
-| 11 |
+User Story: 1
+Mehrwert: 
+Erfahrung: 
+Aufwand: 
+Risiko: 
+Priorität: 
+
+User Story: 1
+Mehrwert: 
+Erfahrung: 
+Aufwand: 
+Risiko: 
+Priorität: 
+
+User Story: 1
+Mehrwert: 
+Erfahrung: 
+Aufwand: 
+Risiko: 
+Priorität: 
+
+User Story: 1
+Mehrwert: 
+Erfahrung: 
+Aufwand: 
+Risiko: 
+Priorität: 
+
+User Story: 1
+Mehrwert: 
+Erfahrung: 
+Aufwand: 
+Risiko: 
+Priorität: 
+
+User Story: 1
+Mehrwert: 
+Erfahrung: 
+Aufwand: 
+Risiko: 
+Priorität: 
+
+User Story: 1
+Mehrwert: 
+Erfahrung: 
+Aufwand: 
+Risiko: 
+Priorität: 
+
+User Story: 1
+Mehrwert: 
+Erfahrung: 
+Aufwand: 
+Risiko: 
+Priorität: 
+
+User Story: 1
+Mehrwert: 
+Erfahrung: 
+Aufwand: 
+Risiko: 
+Priorität: 
+
+User Story: 1
+Mehrwert: 
+Erfahrung: 
+Aufwand: 
+Risiko: 
+Priorität: 
