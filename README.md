@@ -133,8 +133,7 @@ mblatz2s, tschue2s, zisikh2s
 - Als Manager möchte ich den Kassenstand im Nachhinein pro Tag, Woche, Monat und Jahr abfragen können
 - Als Manager benötige ich den Zugriff auf meine wichtigen Informationen von jedem PC aus
 
-##Priorisierung der User Stories nach Gloger
-
+## Priorisierung der User Stories nach Gloger
 | User Story | Mehrwert | Erfahrung | Aufwand | Risiko | Priorität |
 | ---------- | -------- | --------- | ------- | ------ | --------- |
 |  1 | Hallo welt | und so | asdlk | alsdjf | lkasjdf |
