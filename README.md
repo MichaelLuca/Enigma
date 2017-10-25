@@ -135,7 +135,7 @@ mblatz2s, tschue2s, zisikh2s
 
 ## Priorisierung der User Stories nach Gloger
 | User Story | Mehrwert | Erfahrung | Aufwand | Risiko | Priorität |
-| ---------- | -------- | --------- | ------- | ------ | --------- |
+| ----------:| -------- | --------- | ------- | ------ | --------- |
 |  1 | Test |
 |  2 |
 |  3 |
