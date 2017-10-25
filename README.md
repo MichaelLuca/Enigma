@@ -13,7 +13,7 @@ Die teilnehmenden Studierenden dieses Projektes sind:
 mblatz2s, tschue2s, zisikh2s
 
 <div align="right">
-    <b><a href="#enigma">? back to top</a></b>
+    <b><a href="#enigma">back to top</a></b>
 </div>
 
 ## Lastenheft für das Parkhaus (Brainstorming)
@@ -32,11 +32,19 @@ Das System DigiPark
 	- Das Parkhaus sollte nicht überfüllt werden können.
 	- Im Notfall sollten alle Schranken geöffnet werden können.
 	
+<div align="right">
+    <b><a href="#enigma">back to top</a></b>
+</div>
+
 ## Stakeholderanalyse für das Parkhaus (Brainstorming)
 ### Was sind Stakeholder? 
 > Mit **Stakeholder** (auch Anspruchsgruppen) werden alle Personen, Gruppen oder Institutionen bezeichnet, die von den Aktivitäten eines Unternehmens direkt oder indirekt betroffen sind oder die irgendein Interesse an diesen Aktivitäten haben. Stakeholder versuchen auf das Unternehmen Einfluss zu nehmen.
 
 *Quelle: https://www.business-wissen.de/hb/was-sind-stakeholder-und-was-bedeutet-das-stakeholder-konzept/, 25.10.17*
+
+<div align="right">
+    <b><a href="#enigma">back to top</a></b>
+</div>
 
 #### Beispiele für Stakeholder
 - Kunden
@@ -54,3 +62,7 @@ Das System DigiPark
 ![Stakeholderansicht](https://upload.wikimedia.org/wikipedia/commons/9/98/Stakeholder_in-ex.png)
 	
 *Quelle: https://upload.wikimedia.org/wikipedia/commons/9/98/Stakeholder_in-ex.png, 25.10.17*
+
+<div align="right">
+    <b><a href="#enigma">back to top</a></b>
+</div>
