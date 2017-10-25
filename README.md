@@ -13,7 +13,7 @@ Die teilnehmenden Studierenden dieses Projektes sind:
 mblatz2s, tschue2s, zisikh2s
 
 <div align="right">
-    <b><a href="#----">? back to top</a></b>
+    <b><a href="#enigma">? back to top</a></b>
 </div>
 
 ## Lastenheft für das Parkhaus (Brainstorming)
