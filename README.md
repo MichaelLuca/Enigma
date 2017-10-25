@@ -25,7 +25,9 @@ Das System DigiPark
 ## Stakeholderanalyse für das Parkhaus (Brainstorming)
 ### Was sind Stakeholder? 
 > Mit **Stakeholder** (auch Anspruchsgruppen) werden alle Personen, Gruppen oder Institutionen bezeichnet, die von den Aktivitäten eines Unternehmens direkt oder indirekt betroffen sind oder die irgendein Interesse an diesen Aktivitäten haben. Stakeholder versuchen auf das Unternehmen Einfluss zu nehmen.
+
 *Quelle: https://www.business-wissen.de/hb/was-sind-stakeholder-und-was-bedeutet-das-stakeholder-konzept/, 25.10.17*
+
 #### Beispiele für Stakeholder
 - Kunden
 - Mitarbeiter
