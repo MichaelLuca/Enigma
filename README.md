@@ -1,16 +1,20 @@
 # Enigma
 
 ## Inhaltsverzeichnis
-- [Einleitung](https://github.com/MichaelLuca/Enigma#einleitung)
+- [Einleitung](#einleitung)
 - [Lastenheft](#lastenheft-für-das-parkhaus-brainstorming)
-- [Stakeholderanalyse](https://github.com/MichaelLuca/Enigma#stakeholderanalyse-für-das-parkhaus-brainstorming)
-	- [Was sind Stakeholder](https://github.com/MichaelLuca/Enigma#was-sind-stakeholder)
+- [Stakeholderanalyse](#stakeholderanalyse-für-das-parkhaus-brainstorming)
+	- [Was sind Stakeholder](#was-sind-stakeholder)
 
 ## Einleitung
 Hier entsteht das Projekt für die Digitalisierung eines Parkhauses für das Modul Software Engeneering 1 der Hochschule Bonn-Rhein-Sieg.
 
 Die teilnehmenden Studierenden dieses Projektes sind: 
 mblatz2s, tschue2s, zisikh2s
+
+<div align="right">
+    <b><a href="#----">? back to top</a></b>
+</div>
 
 ## Lastenheft für das Parkhaus (Brainstorming)
 Das System DigiPark
