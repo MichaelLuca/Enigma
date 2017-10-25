@@ -46,7 +46,7 @@ Das System DigiPark
     <b><a href="#enigma">back to top</a></b>
 </div>
 
-#### Beispiele für Stakeholder
+### Beispiele für Stakeholder
 - Kunden
 - Mitarbeiter
 - Handelspartner
