@@ -40,3 +40,5 @@ Das System DigiPark
 - Verbände (Verbraucherschutz)
 - Banken und andere Kapitalgeber
 - Eigentümer
+
+![Stakeholderschaubild](https://www.business-wissen.de/hb/was-sind-stakeholder-und-was-bedeutet-das-stakeholder-konzept/)
