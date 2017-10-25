@@ -121,85 +121,92 @@ mblatz2s, tschue2s, zisikh2s
 </div>
 
 ## User Stories
-- Als Autofahrer benötige ich das Wissen über die Anzahl der freien Parkplätze, um das Parkhaus nutzen zu können
-- Als Autofahrer benötige ich Informationen zum Preis, um im Parkhaus das Parkticket zahlen zu können
-- Als Autofahrer möchte ich im Notfall das Parkhaus sofort verlassen können, um nicht in Gefahr zu geraten
-- Als Schrankenwärter benötige ich die Information über die Anzahl der freien Parkplätze, um weitere Autos ins Parkhaus fahren lassen zu können
-- Als Schrankenwärter benötige ich die Information wann das Parkticket bezahlt wurde um den Parkenden aus dem Parkhaus fahren lassen zu können
-- Als Manager benötige ich eine Kontrolle über den Ein- und Auslass, damit die Öffnungszeiten von den Kunden eingehalten werden
-- Als Manager benötige ich die Kontrolle über Betriebsabläufe, um das Parkhaus kontrollieren und steuern zu können
-- Als Manager möchte ich die Öffnungszeiten selbst festlegen können, um den Gesetzlichen Vorgaben zu entsprechen
-- Als Manager benötige ich die Informationen über den Kassenstand, um dies in eine Übersicht eintragen zu können
-- Als Manager möchte ich den Kassenstand im Nachhinein pro Tag, Woche, Monat und Jahr abfragen können
-- Als Manager benötige ich den Zugriff auf meine wichtigen Informationen von jedem PC aus
+1. Als Autofahrer benötige ich das Wissen über die Anzahl der freien Parkplätze, um das Parkhaus nutzen zu können
+2. Als Autofahrer benötige ich Informationen zum Preis, um im Parkhaus das Parkticket zahlen zu können
+3. Als Autofahrer möchte ich im Notfall das Parkhaus sofort verlassen können, um nicht in Gefahr zu geraten
+4. Als Schrankenwärter benötige ich die Information über die Anzahl der freien Parkplätze, um weitere Autos ins Parkhaus fahren lassen zu können
+5. Als Schrankenwärter benötige ich die Information wann das Parkticket bezahlt wurde um den Parkenden aus dem Parkhaus fahren lassen zu können
+6. Als Manager benötige ich eine Kontrolle über den Ein- und Auslass, damit die Öffnungszeiten von den Kunden eingehalten werden
+7. Als Manager benötige ich die Kontrolle über Betriebsabläufe, um das Parkhaus kontrollieren und steuern zu können
+8. Als Manager möchte ich die Öffnungszeiten selbst festlegen können, um den Gesetzlichen Vorgaben zu entsprechen
+9. Als Manager benötige ich die Informationen über den Kassenstand, um dies in eine Übersicht eintragen zu können
+10. Als Manager möchte ich den Kassenstand im Nachhinein pro Tag, Woche, Monat und Jahr abfragen können
+11. Als Manager benötige ich den Zugriff auf meine wichtigen Informationen von jedem PC aus, um schnell auf Probleme reagieren zu können
 
 ## Priorisierung der User Stories nach Gloger
 User Story: 1
-Mehrwert: 
-Erfahrung: 
-Aufwand: 
-Risiko: 
-Priorität: 
+Mehrwert: 2
+Erfahrung: 4
+Aufwand: 2
+Risiko: 2
+Priorität: 2
 
-User Story: 1
-Mehrwert: 
-Erfahrung: 
-Aufwand: 
-Risiko: 
-Priorität: 
+User Story: 2
+Mehrwert: 1
+Erfahrung: 2
+Aufwand: 2
+Risiko: 1
+Priorität: 1
 
-User Story: 1
-Mehrwert: 
-Erfahrung: 
-Aufwand: 
-Risiko: 
-Priorität: 
+User Story: 3
+Mehrwert: 8
+Erfahrung: 6
+Aufwand: 2
+Risiko: 2
+Priorität: 12
 
-User Story: 1
-Mehrwert: 
-Erfahrung: 
-Aufwand: 
-Risiko: 
-Priorität: 
+User Story: 4
+Mehrwert: 4
+Erfahrung: 3
+Aufwand: 2
+Risiko: 4
+Priorität: 1,5
 
-User Story: 1
-Mehrwert: 
-Erfahrung: 
-Aufwand: 
-Risiko: 
-Priorität: 
+User Story: 5
+Mehrwert: 4
+Erfahrung: 2
+Aufwand: 2
+Risiko: 1
+Priorität: 4
 
-User Story: 1
-Mehrwert: 
-Erfahrung: 
-Aufwand: 
-Risiko: 
-Priorität: 
+User Story: 6
+Mehrwert: 2
+Erfahrung: 1
+Aufwand: 4
+Risiko: 1
+Priorität: 0,5
 
-User Story: 1
-Mehrwert: 
-Erfahrung: 
-Aufwand: 
-Risiko: 
-Priorität: 
+User Story: 7
+Mehrwert: 8
+Erfahrung: 8
+Aufwand: 6
+Risiko: 2
+Priorität: 5,33
 
-User Story: 1
-Mehrwert: 
-Erfahrung: 
-Aufwand: 
-Risiko: 
-Priorität: 
+User Story: 8
+Mehrwert: 6
+Erfahrung: 3
+Aufwand: 2
+Risiko: 2
+Priorität: 4,5
 
-User Story: 1
-Mehrwert: 
-Erfahrung: 
-Aufwand: 
-Risiko: 
-Priorität: 
+User Story: 9
+Mehrwert: 2
+Erfahrung: 2
+Aufwand: 4
+Risiko: 2
+Priorität: 0,5
 
-User Story: 1
-Mehrwert: 
-Erfahrung: 
-Aufwand: 
-Risiko: 
-Priorität: 
+User Story: 10
+Mehrwert: 4
+Erfahrung: 4
+Aufwand: 6
+Risiko: 3
+Priorität: 0,89
+
+User Story: 11
+Mehrwert: 8
+Erfahrung: 2
+Aufwand: 8
+Risiko: 1
+Priorität: 2
