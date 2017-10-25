@@ -41,4 +41,4 @@ Das System DigiPark
 - Banken und andere Kapitalgeber
 - Eigentümer
 
-![Stakeholderschaubild](https://upload.wikimedia.org/wikipedia/commons/9/98/Stakeholder_in-ex.png)
+<p align="center">![Stakeholderschaubild](https://upload.wikimedia.org/wikipedia/commons/9/98/Stakeholder_in-ex.png)</p>
