@@ -1,4 +1,4 @@
-#Lastenheft
+# Lastenheft
 ### Funktional (Was das Produkt können soll)
 - Das System DigiPark muss Autos das Parken und Herausfahren mit Kontrollen gewähren
 - Das System DigiPark muss die Fülle des Parkhauses verwalten
