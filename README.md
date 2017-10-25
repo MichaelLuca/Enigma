@@ -41,4 +41,4 @@ Das System DigiPark
 - Banken und andere Kapitalgeber
 - Eigentümer
 
-![Stakeholderschaubild](https://www.business-wissen.de/hb/was-sind-stakeholder-und-was-bedeutet-das-stakeholder-konzept/)
+![Stakeholderschaubild](https://upload.wikimedia.org/wikipedia/commons/9/98/Stakeholder_in-ex.png)
