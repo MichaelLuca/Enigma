@@ -2,7 +2,7 @@
 
 ## Inhaltsverzeichnis
 - [Einleitung](https://github.com/MichaelLuca/Enigma#einleitung)
-- [Lastenheft](https://github.com/MichaelLuca/Enigma#lastenheft-für-das-parkhaus-brainstorming)
+- [Lastenheft](#lastenheft-für-das-parkhaus-brainstorming)
 - [Stakeholderanalyse](https://github.com/MichaelLuca/Enigma#stakeholderanalyse-für-das-parkhaus-brainstorming)
 	- [Was sind Stakeholder](https://github.com/MichaelLuca/Enigma#was-sind-stakeholder)
 
