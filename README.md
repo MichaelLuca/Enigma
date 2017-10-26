@@ -8,7 +8,11 @@
 	- [Technische Anforderungen](#technische-anforderungen)
 	- [Rahmenbedingungen](#rahmenbedingungen)
 - [Stakeholderanalyse](#stakeholderanalyse-für-das-parkhaus-brainstorming)
-	- [Was sind Stakeholder](#was-sind-stakeholder)
+	- [Wer sind die Stakeholder eines digitalisierten Parkhauses?](#wer-sind-die-stakeholder-eines-digitalisierten-parkhauses)
+	- [Stakeholder (intern, extern, aktiv, passiv)](#stakeholder-intern-extern-aktiv-passiv)
+	- [Nutzen für Stakeholder](#nutzen-für-stakeholder)
+- [User Stories](#user-stories)
+- [Priorisierung der User Stories](#priorisierung-der-user-stories-nach-gloger)
 
 ## Einleitung
 Hier entsteht das Projekt für die Digitalisierung eines Parkhauses für das Modul Software Engeneering 1 der Hochschule Bonn-Rhein-Sieg.
@@ -47,36 +51,6 @@ mblatz2s, tschue2s, zisikh2s
 </div>
 
 ## Stakeholderanalyse für das Parkhaus (Brainstorming)
-### Was sind Stakeholder? 
-> Mit **Stakeholder** (auch Anspruchsgruppen) werden alle Personen, Gruppen oder Institutionen bezeichnet, die von den Aktivitäten eines Unternehmens direkt oder indirekt betroffen sind oder die irgendein Interesse an diesen Aktivitäten haben. Stakeholder versuchen auf das Unternehmen Einfluss zu nehmen.
-
-*Quelle: https://www.business-wissen.de/hb/was-sind-stakeholder-und-was-bedeutet-das-stakeholder-konzept/, 25.10.17*
-
-<div align="right">
-    <b><a href="#enigma">back to top</a></b>
-</div>
-
-### Beispiele für Stakeholder
-- Kunden
-- Mitarbeiter
-- Handelspartner
-- Lieferanten
-- Öffentlichkeit
-- Administration (öffentliche Verwaltung)
-- Gesetzgeber
-- Politik
-- Verbände (Verbraucherschutz)
-- Banken und andere Kapitalgeber
-- Eigentümer
-
-![Stakeholderansicht](https://upload.wikimedia.org/wikipedia/commons/9/98/Stakeholder_in-ex.png)
-	
-*Quelle: https://upload.wikimedia.org/wikipedia/commons/9/98/Stakeholder_in-ex.png, 25.10.17*
-
-<div align="right">
-    <b><a href="#enigma">back to top</a></b>
-</div>
-
 ### Wer sind die Stakeholder eines digitalisierten Parkhauses?
 - Kunden (Parkenden)
 - Mitarbeiter (Kassierer, Einweiser, Manager, Schrankenwärter)
