@@ -116,6 +116,9 @@ mblatz2s, tschue2s, zisikh2s
 - Banken und andere Kapitalgeber
 - Staat
 
+### Nutzen für Stakeholder
+
+
 <div align="right">
     <b><a href="#enigma">back to top</a></b>
 </div>
@@ -132,6 +135,10 @@ mblatz2s, tschue2s, zisikh2s
 9. Als Manager benötige ich die Informationen über den Kassenstand, um dies in eine Übersicht eintragen zu können
 10. Als Manager möchte ich den Kassenstand im Nachhinein pro Tag, Woche, Monat und Jahr abfragen können
 11. Als Manager benötige ich den Zugriff auf meine wichtigen Informationen von jedem PC aus, um schnell auf Probleme reagieren zu können
+
+<div align="right">
+    <b><a href="#enigma">back to top</a></b>
+</div>
 
 ## Priorisierung der User Stories nach Gloger
 User Story: 1
@@ -210,3 +217,7 @@ Erfahrung: 2
 Aufwand: 8
 Risiko: 1
 Priorität: 2
+
+<div align="right">
+    <b><a href="#enigma">back to top</a></b>
+</div>
