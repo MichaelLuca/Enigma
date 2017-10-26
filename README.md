@@ -117,7 +117,7 @@ mblatz2s, tschue2s, zisikh2s
 - Staat
 
 ### Nutzen für Stakeholder
-
+Die Digitalisierung des Parkhauses nutzt vor allem den Stakeholdern Staat, Manager, Politik, Banken und andere Kapitalgeber und Eigentümer.
 
 <div align="right">
     <b><a href="#enigma">back to top</a></b>
