@@ -13,6 +13,7 @@
 	- [Nutzen für Stakeholder](#nutzen-für-stakeholder)
 - [User Stories](#user-stories)
 - [Priorisierung der User Stories](#priorisierung-der-user-stories-nach-gloger)
+- [StoryMap](#storymap)
 
 ## Einleitung
 Hier entsteht das Projekt für die Digitalisierung eines Parkhauses für das Modul Software Engeneering 1 der Hochschule Bonn-Rhein-Sieg.
